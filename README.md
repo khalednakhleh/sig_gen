@@ -1,4 +1,4 @@
-SignalSlice is a repository for viewing different signals, and to perform Fourier Fast Transform (FFT) on their combined form.
+This repository was made to study basic Python techniques as well as familiarize myself with numpy and matplotlib. I still haven't verified the results, which could be incorrect.
 
 Repository uses Python 3.6, and all of its requirements can be found in the requirements file.
 
